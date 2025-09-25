@@ -1,4 +1,4 @@
-setwd("C:\\Users\\IT24102180\\Desktop\\IT24102180")
+setwd("C:\\Users\\IT24100755\\Desktop\\IT24100755")
 
 data<-read.table("Exercise - LaptopsWeights.txt",header = TRUE)
 fix(data)
@@ -35,3 +35,4 @@ samplemean
 
 samplesd<-sd(s.means)
 samplesd
+
