@@ -4,7 +4,7 @@ data<-read.table("Exercise - LaptopsWeights.txt",header = TRUE)
 fix(data)
 attach(data)
 
-#Question1
+#Q1
 popmn<-mean(Weight.kg.)
 popmn
 
@@ -35,4 +35,5 @@ samplemean
 
 samplesd<-sd(s.means)
 samplesd
+
 
